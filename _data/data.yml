@@ -34,97 +34,97 @@ sidebar:
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
-      title: Languages
+      title: Idiomas
       info:
-        - idiom: Spanish
-          level: Native
+        - idiom: Español
+          level: Nativo
 
-        - idiom: English
-          level: Basic Professional
+        - idiom: Inglés
+          level: Basico Profesional
 
     interests:
-      title: Interests
+      title: Intereses
       info:
-        - item: Fashion
+        - item: Moda
           link:
 
-        - item: Sports
+        - item: Deportes
           link:
 
-        - item: Music
+        - item: Musica
           link:
 
-        - item: Crypto
+        - item: Cryptos
           link:
 
 career-profile:
-    title: About Me
+    title: Sobre Me
     summary: |
-      I am a Computer Engineer graduated from the University of Málaga (UMA) with experience in software development and a strong passion for blockchain technology. I have worked developing automation tools focused on NFTs, concert ticket sales, and limited edition products, mainly for private Discord communities.
+      Soy Ingeniero Informático por la Universidad de Málaga (UMA) con experiencia en desarrollo de software y una sólida pasión por la tecnología blockchain. He trabajado como freelancer, desarrollando herramientas de automatización enfocadas en NFTs, venta de entradas para conciertos y artículos de edición limitada, principalmente para comunidades privadas de Discord.
       
-      Throughout my career, I have developed a Bitcoin wallet with advanced custody options, combining my blockchain knowledge with Full-Stack development skills.
+      Durante mi trayectoria, he desarrollado una wallet de Bitcoin con opciones de custodia avanzada, combinando mi conocimiento en blockchain con habilidades en desarrollo Full-Stack.
 
 education:
-    title: Education
+    title: Educación
     info:
-      - degree: Bachelor’s Degree in Computer Engineering
-        university: University of Málaga (UMA)
+      - degree: Grado en Ingeniería Informática
+        university: Universidad de Málaga (UMA)
         time: 2018 - 2024
         details: |    
-      - degree: Bachelor’s Degree in Computer Engineering
+      - degree: Grado en Ingeniería Informática
         university: Czech University of Life Sciences Prague (CZU)
         time: feb. 2022 - jun. 2022
         details: |
-          Exchange student for a semester.
-      - degree: University Extension Course in Blockchain Technologies
-        university: University of Málaga (UMA)
+          Estudiante erasmus durante un trimestre.
+      - degree: Curso de extensión universitaria en tecnologías blockchain
+        university: Universidad de Málaga (UMA)
         time: feb. 2023 - jun. 2023
         details: |
-            - Blockchain ecosystem
-            - Solidity programming language
-            - Smart Contract auditing
-            - Web3 development
-            - Permissioned blockchains
-            - Blockchain experiences
-            - Final project (Bitcoin wallet with advanced custody options)
+            - Ecosistema blockchain.
+            - Lenguaje de programación Solidity.
+            - Auditoria de Smart Contracts.
+            - Desarrollo Web3.
+            - Blokchain permisionadas.
+            - Experiencias blockchain.
+            - Proyecto final (Wallet de Bitcoin con opciones de custodia avanzada).
 
 
 experiences:
-    title: Experiences
+    title: Experiencia
     info:
       - role: Freelance
-        time: 2021 - Present
+        time: 2021 - Actualidad
         company: 
         details: |
-          I have worked as a freelance developer creating automated solutions and bots for private Discord groups, mainly using Python. My projects include:
-            - Monitors to facilitate the purchase of limited-edition items such as sneakers, fashion products, concert tickets, and NFTs, implementing web scraping techniques.
-            - Cryptocurrency price monitoring bots, utilizing external APIs and automating real-time alerts.
-            - Twitter monitor developed using the Twitter API to track mentions of specific accounts, hashtags, or keywords. Real-time notifications integrated into Discord.
-            - Chrome extension developed in JavaScript to automate processes on Amazon.
-      - role: Computer Engineer 
+          He trabajado como desarrollador freelance creando soluciones automatizadas y bots para grupos privados de Discord, utilizando principalmente Python. Mis proyectos incluyen:
+            - Monitores para facilitar la compra de articulos limitados como zapatillas, moda, tickets de conciertos, NFTs...etc, implementando técnicas de web scraping.
+            - Bots de monitorización de precios de criptomonedas, utilizando APIs externas y automatizando alertas en tiempo real.
+            - Monitor de Twitter desarrollado con la API de Twitter para rastrear menciones de cuentas específicas, hashtags o palabras clave. Automatización de notificaciones en tiempo real integradas en Discord.
+            - Desarrollo de extension de Chrome en JavaScript para automatizar procesos en Amazon.
+      - role: Ingeniero informático 
         time: abr. 2023 - jun. 2023
         company: Fortris, Málaga
         details: |
-            - Development of a Bitcoin wallet with advanced custody options using Miniscript, timelocks, and descriptors.
-            - Implementation of a fund recovery system in case of seed phrase loss, enhancing asset security.
-            - Utilized Node, NestJS, React, and Web3 to build the business logic.
-            - Integrated APIs for real-time data retrieval and transaction processing.
-      - role: Football Player
+            - Desarrollo de una wallet de Bitcoin con opciones de custodia avanzada, usando Miniscript, timelocks y descriptores.
+            - Implementación de un sistema de recuperación de fondos en caso de pérdida de la frase semilla, mejorando la seguridad de los activos.
+            - Uso de Node, NestJs, React y Web3 para construir la lógica.
+            - Integración de APIs para la recuperación de datos y transacciones en tiempo real.
+      - role: Jugador de fútbol
         time: 2014 - 2017
         company: Málaga Club De Fútbol, Málaga
         details: |
-            - 3 years of experience as a football player at Málaga Club de Fútbol.
-            - Developed skills such as teamwork, discipline, and time management.
-            - Ability to work under pressure and adapt to changing situations.
-            - Applied values such as resilience, dedication, and consistent effort throughout my professional career.
+            - Experiencia de 3 años como jugador de fútbol en el Málaga Club de Fútbol.
+            - Desarrollo de habilidades como trabajo en equipo, disciplina y gestión del tiempo.
+            - Capacidad para trabajar bajo presión y adaptarse a situaciones de cambio.
+            - Aplicación de valores como la resiliencia, la dedicación y el esfuerzo constante en mi carrera profesional.
 
 certifications:
-      title: Certifications
+      title: Certificationes
       list:
-        - name: 'Cybersecurity through deception: honeypots, honeywebs and hiding/replacing servers under attack'
+        - name: 'Seguridad informática a través del engaño: honeypots, honeywebs y ocultación/reemplazo de servidores bajo ataque'
           start: 
           end: 
-          organization: University of Málaga (UMA)
+          organization: Universidad de Málaga (UMA)
           credentialid: PFIRMA-c8db-9e21-0e03-0d48-293d-160f-86f2-0cf8
           credentialurl: prod-gonce-verifirma.uma.es/verifirma/pages/verification-code.htm
           credentialname: Uma
@@ -177,16 +177,16 @@ certifications:
 #        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Publicationes
     intro: |
     papers:
-      - title: Advanced fund custody with Timelocks and Miniscript
+      - title: Custodia de fondos avanzada con Timelocks y Miniscript
         link: "https://www.scitel.es/jitel/actas/Actas_Jitel_2023_Barcelona.pdf"
         authors: Juan Carlos Delgado De La Torre, Diego García Muñoz, Álvaro López Sánchez, Miguel Angel Fortes Santiago, Antonio Tovar
         conference: Jitel 2023 (169-174)
 
 skills:
-    title: Skills
+    title: Habilidades
 
     toolset:
       - name: Python

@@ -54,7 +54,7 @@ sidebar:
         - item: Musica
           link:
 
-        - item: Cryptos
+        - item: Blockchain
           link:
 
 career-profile:
@@ -69,16 +69,16 @@ education:
     info:
       - degree: Grado en Ingeniería Informática
         university: Universidad de Málaga (UMA)
-        time: 2018 - 2024
+        time: 
         details: |    
       - degree: Grado en Ingeniería Informática
         university: Czech University of Life Sciences Prague (CZU)
-        time: feb. 2022 - jun. 2022
+        time: 
         details: |
           Estudiante erasmus durante un trimestre.
       - degree: Curso de extensión universitaria en tecnologías blockchain
         university: Universidad de Málaga (UMA)
-        time: feb. 2023 - jun. 2023
+        time: 
         details: |
             - Ecosistema blockchain.
             - Lenguaje de programación Solidity.
@@ -98,7 +98,7 @@ experiences:
         details: |
           He trabajado como desarrollador freelance creando soluciones automatizadas y bots para grupos privados de Discord, utilizando principalmente Python. Mis proyectos incluyen:
             - Monitores para facilitar la compra de articulos limitados como zapatillas, moda, tickets de conciertos, NFTs...etc, implementando técnicas de web scraping.
-            - Bots de monitorización de precios de criptomonedas, utilizando APIs externas y automatizando alertas en tiempo real.
+            - Software de monitorización de precios de criptomonedas, utilizando APIs externas y automatizando alertas en tiempo real.
             - Monitor de Twitter desarrollado con la API de Twitter para rastrear menciones de cuentas específicas, hashtags o palabras clave. Automatización de notificaciones en tiempo real integradas en Discord.
             - Desarrollo de extension de Chrome en JavaScript para automatizar procesos en Amazon.
       - role: Ingeniero informático 

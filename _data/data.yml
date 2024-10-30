@@ -126,7 +126,7 @@ certifications:
           end: 
           organization: Universidad de Málaga (UMA)
           credentialid: PFIRMA-c8db-9e21-0e03-0d48-293d-160f-86f2-0cf8
-          credentialurl: prod-gonce-verifirma.uma.es/verifirma/pages/verification-code.htm
+          credentialurl: 
           credentialname: Uma
           details: |
 

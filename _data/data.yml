@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Juan Carlos Delgado De La Torre
-    tagline: Full-Stack | Web Scraping | Blockchain
+    tagline: Backend | Web Scraping | Blockchain
     avatar: perfil.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -189,7 +189,7 @@ skills:
     title: Habilidades
 
     toolset:
-      - name: Python
+      - name: Python (Flask)
         level: 98%
 
       - name: Javascript (React, NestsJS, Node, Express)
@@ -201,8 +201,10 @@ skills:
       - name: Solidity
         level: 95%
 
-      - name: SQL
+      - name: Bases de Datos (SQL, NoSQL)
         level: 85%
+
+      - name: Almacén de Datos (ETL)
 
       - name: Haskell
         level: 60%
@@ -212,6 +214,10 @@ skills:
 
       - name: Web Scrapping (Requests, BeautifulSoup, Selenium)
 
-      - name: Blockchain (Bitcoin, Ethereum) 
+      - name: Blockchain (Bitcoin, Ethereum)
+
+      - name: Metodología Ágil
+
+      - name: Estructura de Datos
 
 

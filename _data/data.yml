@@ -138,14 +138,14 @@ projects:
       - Uso de Node, NestJs, React y Web3 para construir la lógica.
       - Integración de APIs para la recuperación de datos y transacciones en tiempo real.
  
-#    assignments:
+    assignments:
 #      - title: Velocity
 #        link: "#hook"
-#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 #
 #      - title: DevStudio
 #        link: "#"
-#        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A responsive website template designed to help web developers/designers market their services."
 
 #      - title: Tempo
 #        link: "#"

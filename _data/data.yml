@@ -130,22 +130,22 @@ certifications:
           credentialname: Uma
           details: |
 
-projects:
-    title: Problemas y Soluciones en Desarrollo
-    intro: 
-      - Desarrollo de una \n wallet /n de Bitcoin con opciones de custodia avanzada, usando Miniscript, timelocks y descriptores.
-      - Implementación de un sistema de recuperación de fondos en caso de pérdida de la frase semilla, mejorando la seguridad de los activos.
-      - Uso de Node, NestJs, React y Web3 para construir la lógica.
-      - Integración de APIs para la recuperación de datos y transacciones en tiempo real.
+#projects:
+#    title: Problemas y Soluciones en Desarrollo
+#    intro: 
+#      - Desarrollo de una \n wallet /n de Bitcoin con opciones de custodia avanzada, usando Miniscript, timelocks y descriptores.
+#      - Implementación de un sistema de recuperación de fondos en caso de pérdida de la frase semilla, mejorando la seguridad de los activos.
+#      - Uso de Node, NestJs, React y Web3 para construir la lógica.
+#      - Integración de APIs para la recuperación de datos y transacciones en tiempo real.
  
-    assignments:
+#    assignments:
 #      - title: Velocity
 #        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 #
 #      - title: DevStudio
 #        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+#        tagline: "A responsive website template designed to help web developers/designers market their services."
 
 #      - title: Tempo
 #        link: "#"

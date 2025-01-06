@@ -132,7 +132,7 @@ certifications:
 
 projects:
     title: Problemas y Soluciones en Desarrollo
-    intro: >
+    intro: 
       - Desarrollo de una wallet de Bitcoin con opciones de custodia avanzada, usando Miniscript, timelocks y descriptores.
       - Implementación de un sistema de recuperación de fondos en caso de pérdida de la frase semilla, mejorando la seguridad de los activos.
       - Uso de Node, NestJs, React y Web3 para construir la lógica.

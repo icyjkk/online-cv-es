@@ -130,6 +130,13 @@ certifications:
           credentialname: Uma
           details: |
 
+career-profile:
+    title: Sobre Mi
+    summary: |
+      Soy Ingeniero Informático por la Universidad de Málaga (UMA) con experiencia en desarrollo de software y una sólida pasión por la tecnología blockchain. He trabajado como freelancer, desarrollando herramientas de automatización enfocadas en NFTs, venta de entradas para conciertos y artículos de edición limitada, principalmente para comunidades privadas de Discord.
+      
+      Durante mi trayectoria, he desarrollado una wallet de Bitcoin con opciones de custodia avanzada, combinando mi conocimiento en blockchain con habilidades en desarrollo Full-Stack.
+
 projects:
     title: Problemas y Soluciones en Desarrollo
     intro: >

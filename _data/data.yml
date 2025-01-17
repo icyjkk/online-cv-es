@@ -61,8 +61,10 @@ career-profile:
     title: Sobre Mi
     summary: |
       Soy Ingeniero Informático por la Universidad de Málaga (UMA) con experiencia en desarrollo de software y una sólida pasión por la tecnología blockchain. He trabajado como freelancer, desarrollando herramientas de automatización enfocadas en NFTs, venta de entradas para conciertos y artículos de edición limitada, principalmente para comunidades privadas de Discord.
-      
+
       Durante mi trayectoria, he desarrollado una wallet de Bitcoin con opciones de custodia avanzada, combinando mi conocimiento en blockchain con habilidades en desarrollo Full-Stack.
+
+      Por otra parte, a través de otras experiencias fuera de estos proyectos, he adquirido y potenciado habilidades como el trabajo en equipo, la disciplina y la gestión del tiempo. Asimismo, he demostrado mi capacidad para trabajar bajo presión y adaptarme a situaciones de cambio, aplicando valores como la resiliencia, la dedicación y el esfuerzo constante a lo largo de mi carrera profesional.
 
 education:
     title: Educación
@@ -109,14 +111,14 @@ experiences:
             - Implementación de un sistema de recuperación de fondos en caso de pérdida de la frase semilla, mejorando la seguridad de los activos.
             - Uso de Node, NestJs, React y Web3 para construir la lógica.
             - Integración de APIs para la recuperación de datos y transacciones en tiempo real.
-      - role: Jugador de fútbol
-        time: 2014 - 2017
-        company: Málaga Club De Fútbol, Málaga
-        details: |
-            - Experiencia de 3 años como jugador de fútbol en el Málaga Club de Fútbol.
-            - Desarrollo de habilidades como trabajo en equipo, disciplina y gestión del tiempo.
-            - Capacidad para trabajar bajo presión y adaptarse a situaciones de cambio.
-            - Aplicación de valores como la resiliencia, la dedicación y el esfuerzo constante en mi carrera profesional.
+     # - role: Jugador de fútbol
+     #   time: 2014 - 2017
+     #   company: Málaga Club De Fútbol, Málaga
+     #   details: |
+     #       - Experiencia de 3 años como jugador de fútbol en el Málaga Club de Fútbol.
+     #       - Desarrollo de habilidades como trabajo en equipo, disciplina y gestión del tiempo.
+     #       - Capacidad para trabajar bajo presión y adaptarse a situaciones de cambio.
+     #       - Aplicación de valores como la resiliencia, la dedicación y el esfuerzo constante en mi carrera profesional.
      # - role: Problemas y Soluciones en Desarrollo
      #   time: 
      #   company: 
@@ -232,5 +234,3 @@ skills:
       - name: Estructura de Datos
 
       - name: Git
-
-
